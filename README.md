@@ -9,8 +9,8 @@ Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 To demonstrate how prompt engineering techniques such as structured prompts, query decomposition, semantic filtering, and iterative refinement can be used to generate high-quality visual content using AI tools.
 This experiment creates a Case Study on “Creating Stunning Posters Using Google Gemini AI – Enhancing Creativity and Design Efficiency.”
 
-Theory: Understanding AI Image Generation & Prompt Engineering
-What is Google Gemini AI?
+## Theory: Understanding AI Image Generation & Prompt Engineering
+## What is Google Gemini AI?
 
 Google Gemini is an advanced generative AI platform capable of creating images, posters, banners, and marketing visuals from text prompts. It provides creative control over colors, layout, typography, and visual effects.
 It enables users to generate professional posters instantly, even without design experience. 
